@@ -1,0 +1,8 @@
+[package_detail]
+name = "proxmark3"
+description = "Proxmark3: RFID/NFC forensic and pentest tool"
+version = "3.1.0"
+source_url = "https://github.com/RfidResearchGroup/proxmark3"
+license = "GPL-3.0"
+install_script = "setup.sh"
+install_script_type = "shell"
